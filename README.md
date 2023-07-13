@@ -15,4 +15,4 @@ Just wanted to see how I could connect my own database to a pre-trained LLM (gpt
 
 ### Conclusion
 
-Retrieval Augmentation is relevant, powerful and necessary in order to use most LLMs on our data.
+Retrieval Augmentation is relevant, powerful and necessary in order to use most LLMs on your data.
